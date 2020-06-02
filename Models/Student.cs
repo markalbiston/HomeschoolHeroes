@@ -8,8 +8,6 @@ namespace HomeschoolHeroes.Models
 {
     public class Student : User
     {
-        [Key]
-        public int StudentId {get; set;}
 
         public int GradeLevel {get;set;}
 
