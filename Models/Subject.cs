@@ -16,7 +16,7 @@ namespace HomeschoolHeroes.Models
         public DateTime CreatedAt {get;set;} = DateTime.Now;
         public DateTime UpdatedAt {get;set;} = DateTime.Now;
 
-        //navigatin property for related subjects
+        //navigation property for related subjects
 
         public List<Expert>Experts {get;set;}
         public List<Novice>Novices {get;set;}

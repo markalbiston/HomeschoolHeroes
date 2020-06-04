@@ -20546,6 +20546,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Mark\\Desktop\\CodingDojo\\csharp_stack\\HomeschoolHeroes\\Views\\Login\\LandingPage.cshtml",
+      "TargetPath": "Views\\Login\\LandingPage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Mark\\Desktop\\CodingDojo\\csharp_stack\\HomeschoolHeroes\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

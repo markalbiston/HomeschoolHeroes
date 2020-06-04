@@ -69,3 +69,28 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+.button_grid_wrapper{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 100px;
+}
+#teacherbutton{
+  grid-column-start: 1;
+  grid-column-end: 2;
+  height: 60%;
+  width: 35%;
+  justify-self: right;
+  margin-right: 10px;
+}
+#studentbutton{
+  grid-column-start: 2;
+  grid-column-end: 3;
+  height: 60%;
+  width: 35%;
+  justify-self: left;
+  margin-left: 10px;
+}
+
+
+
